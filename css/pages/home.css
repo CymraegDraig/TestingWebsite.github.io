@@ -26,6 +26,10 @@
     position: relative;
 }
 
+.content {
+    text-align: center;
+}
+
 #header .content .left .ip-copied {
     color: var(--green-color);
     background: var(--ip-copied-background);
